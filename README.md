@@ -1,0 +1,2 @@
+# palindromChecker
+Check palindroms words
